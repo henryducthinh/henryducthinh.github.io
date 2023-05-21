@@ -27,14 +27,7 @@
         padding: 20px 20px 20px;
     }
 
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
-
-    }
+   
     div.date {
         width: auto;
         height: auto;
@@ -82,14 +75,7 @@
 }
 
 @media screen and (max-width: 850px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 750px;
         height: 550px;
@@ -111,14 +97,7 @@
 }
 
 @media screen and (max-width: 800px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 720px;
         height: 520px;
@@ -140,14 +119,7 @@
 }
 
 @media screen and (max-width: 750px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 650px;
         height: 520px;
@@ -169,14 +141,7 @@
 }
 
 @media screen and (max-width: 700px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 620px;
         height: 450px;
@@ -202,14 +167,7 @@
 }
 
 @media screen and (max-width: 650px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 550px;
         height: 450px;
@@ -229,14 +187,7 @@
 }
 
 @media screen and (max-width: 600px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 550px;
         height: 400px;
@@ -262,14 +213,7 @@
 }
 
 @media screen and (max-width: 550px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 520px;
         height: 420px;
@@ -290,14 +234,7 @@
 }
 
 @media screen and (max-width: 500px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 420px;
         height: 320px;
@@ -323,14 +260,7 @@
 }
 
 @media screen and (max-width: 450px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 320px;
         height: 220px;
@@ -350,14 +280,7 @@
 }
 
 @media screen and (max-width: 300px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 250px;
         height: 150px;
@@ -378,14 +301,7 @@
 }
 
 @media screen and (max-width: 250px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 150px;
         height: 100px;
@@ -405,14 +321,7 @@
 }
 
 @media screen and (max-width: 200px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 150px;
         height: 95px;
@@ -443,14 +352,7 @@
 }
 
 @media screen and (max-width: 150px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
-    [id=name] {
-        width: auto;
-        height: auto;
-        margin: auto;
-        font: auto;
 
-    }
     img.pictre-centen {
         width: 100px;
         height: 97px;
@@ -470,12 +372,12 @@
 }
 
 @media screen and (max-width: 100px) {
-    .from_ghost, .form_clm, .p-col2, .logo-form-avatar, input[id=address],
+    div.from_ghost, form.form_cl, p.p-col2, div.logo-form-avatar, input[id=address],
     [id=name] {
         width: auto;
         height: auto;
         margin: auto;
-        font: auto;
+        font-size: auto;
 
     }
     img.pictre-centen {
