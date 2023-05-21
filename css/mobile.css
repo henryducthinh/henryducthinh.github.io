@@ -376,8 +376,7 @@
     form.form_cl, 
     p.p-col2, 
     div.logo-form-avatar, 
-    input[id=address],
-    [id=name], 
+    input, 
     span.text-col-md1, 
     div.col-md-layot1,
     div.table_text
