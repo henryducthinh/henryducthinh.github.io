@@ -378,7 +378,9 @@
     div.logo-form-avatar, 
     input[id=address],
     [id=name], 
-    span.text-col-md1 {
+    span.text-col-md1, 
+    div.col-md-layot1
+    {
         width: 90px;
         height: 40;
         margin: auto;
