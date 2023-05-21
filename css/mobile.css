@@ -4,6 +4,22 @@
 }
 
 @media screen and (max-width: 900px) {
+    div.from_ghost,
+    form.form_cl, 
+    p.p-col2, 
+    div.logo-form-avatar, 
+    input, 
+    span.text-col-md1, 
+    div.col-md-layot1,
+    div.table_text
+    {
+        width: 90px;
+        height: 40;
+        margin: auto;
+        font-size: 9px;
+        display: block;
+
+    }
     table.title-txslfg-gdd {
         width: 95%;
         height: 45%;
