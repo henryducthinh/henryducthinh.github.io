@@ -379,7 +379,8 @@
     input[id=address],
     [id=name], 
     span.text-col-md1, 
-    div.col-md-layot1
+    div.col-md-layot1,
+    div.table_text
     {
         width: 90px;
         height: 40;
