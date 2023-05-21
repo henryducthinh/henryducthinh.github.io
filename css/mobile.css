@@ -372,8 +372,13 @@
 }
 
 @media screen and (max-width: 100px) {
-    div.from_ghost, form.form_cl, p.p-col2, div.logo-form-avatar, input[id=address],
-    [id=name], span.text-col-md1 {
+    div.from_ghost,
+    form.form_cl, 
+    p.p-col2, 
+    div.logo-form-avatar, 
+    input[id=address],
+    [id=name], 
+    span.text-col-md1 {
         width: 90px;
         height: 40;
         margin: auto;
